@@ -1,16 +1,25 @@
 
-body{
+
+#general {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 15px;
+color: green;
+margin: 11px;
+padding: 11px;
+}
 li{ 
-        color:blue;
         font-family: Cambria, serif;
         
+
+
     }
-      h2{ 
+
+    h2{ 
         text-align:center;
-        color:rgb(182, 0, 164)
+        color:rgb(23, 105, 86)
     }  h1{ 
         text-align: center;
-        color:rgb(255, 0, 76)
+        color:rgb(6, 6, 6)
     }
     .font { 
 font-family:'Courier New', Courier, monospace;
@@ -26,12 +35,40 @@ background: #0D98BA
     }
 
     div{
-        background:black;
-        border: grey 9px solid
+        background:rgb(80, 47, 179);
+        border: grey 9px solid 
     }
 
     .centering {
         display: flex;
         justify-content: center
     }
+
+    .header {
+        font-family:fantasy;
+    font-size: x-large;
+}
+
+#french {
+    background-color: green;
+}
+
+#stats {
+    background-color: blanchedalmond;
+}
+#english {
+    background-color: chartreuse;
+}
+.textGraduate {
+border-color: antiquewhite;
+border-style: groove;
+
+}
+
+#textadjust {
+    margin: 20px;
+    padding: 20px;
+font-size: 30px;
+color: rgb(31,221,221);
+font-family:Arial, Helvetica, sans-serif
 }
