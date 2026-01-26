@@ -1,0 +1,103 @@
+.body {
+background-color: yellow;
+width: 150px;
+height: 200px;
+}
+
+.Leye{
+position: relative;
+top: 10px; 
+left: 25px;
+    background-color: white;
+width: 40px;
+height: 40px;
+}
+
+.Reye{
+position: relative;
+top: 50px; 
+left: 85px;
+    background-color: white;
+width: 40px;
+height: 40px;
+}
+
+
+.Lpupil {
+    position: relative; 
+    top: 5px;
+    left: 5px;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+
+.Rpupil {
+    position: relative; 
+    top: 5px;
+    left: 5px;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+
+.mouth {
+    position: relative;
+    bottom:100px;
+    left:8px;
+    background-color: black;
+    width: 130px;
+    height: 70px;
+}
+
+
+
+.tongue{
+    position: relative;
+    background-color: red;
+    top: 30px;
+    left: 40px;
+    width:60px;
+    height:40px;
+}
+.teeth{
+    background-color: white;
+    width:10px;
+    height: 10px;
+}
+
+#tooth1 {
+    position: absolute;
+    bottom:55px;
+left: 10px;
+
+}
+
+#tooth2{
+    position:absolute;
+    left:20px;
+}
+#tooth3{
+    position:absolute;
+    left:20px;
+}
+#tooth4{
+    position:absolute;
+    left:20px;
+}
+#tooth5{
+    position:absolute;
+    left:20px;
+}
+#tooth6{
+    position:absolute;
+    left:20px;
+}
+
+.tonguecrease{
+background-color: black;
+position:relative;
+left:25px;
+width:5px;
+height:30px;
+}
